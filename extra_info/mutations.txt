@@ -1,0 +1,64 @@
+Trio 1 — AR (Autosomal Recessive)
+No variants passed the filters. The child has no candidate pathogenic variant identified under the AR inheritance pattern in this exome region.
+
+Trio 2 — AD inherited from mother
+Two variants were found in the child (heterozygous) and mother (heterozygous), father is unaffected (0/0):
+
+chr20:35627312 — CPNE1 gene — insertion (1bp ins), frameshift variant, HIGH impact. Found in COSMIC (COSV58291574). No population frequency reported, suggesting it is rare.
+chr20:63407332 — KCNQ2 gene — deletion (1bp del), frameshift variant, HIGH impact. ClinVar classified as pathogenic. Known variant (rs118192241). Both variants are inherited from the mother.
+
+Trio 3 — AD de novo
+Two variants found only in the child (heterozygous), both parents are homozygous reference (0/0):
+
+chr20:145669 — DEFB126 gene — 2bp deletion, frameshift variant, HIGH impact. Found in COSMIC (COSV66694619). De novo mutation.
+chr20:46040465 — SLC12A5 gene — 2bp deletion, frameshift variant, HIGH impact. No population frequency reported. De novo mutation.
+
+
+Trio 4 — AR (Autosomal Recessive)
+One variant found:
+
+chr20:763826 — SLC52A3 gene — SNP (C>A), stop gained (E>* at position 249), HIGH impact. Child is homozygous alt (1/1), both parents are heterozygous carriers (0/1). No population frequency reported, very rare. Introduces a premature stop codon in exon 3/5.
+
+
+Trio 5 — AR (Autosomal Recessive)
+Same variant as trio 4:
+
+chr20:763826 — SLC52A3 gene — SNP (C>A), stop gained, HIGH impact. Child homozygous (1/1), both parents carriers (0/1). Different read depths and quality scores confirm these are independent families carrying the same pathogenic variant.
+
+Here's a summary of all 5 trios based on the VEP filtered results:
+
+---
+
+**Trio 1 — AR (Autosomal Recessive)**
+No variants passed the filters. The child has no candidate pathogenic variant identified under the AR inheritance pattern in this exome region.
+
+---
+
+**Trio 2 — AD inherited from mother**
+Two variants were found in the child (heterozygous) and mother (heterozygous), father is unaffected (0/0):
+
+- **chr20:35627312 — CPNE1 gene** — insertion (1bp ins), frameshift variant, HIGH impact. Found in COSMIC (COSV58291574). No population frequency reported, suggesting it is rare.
+- **chr20:63407332 — KCNQ2 gene** — deletion (1bp del), frameshift variant, HIGH impact. ClinVar classified as **pathogenic**. Known variant (rs118192241). Both variants are inherited from the mother.
+
+---
+
+**Trio 3 — AD de novo**
+Two variants found only in the child (heterozygous), both parents are homozygous reference (0/0):
+
+- **chr20:145669 — DEFB126 gene** — 2bp deletion, frameshift variant, HIGH impact. Found in COSMIC (COSV66694619). De novo mutation.
+- **chr20:46040465 — SLC12A5 gene** — 2bp deletion, frameshift variant, HIGH impact. No population frequency reported. De novo mutation.
+
+---
+
+**Trio 4 — AR (Autosomal Recessive)**
+One variant found:
+
+- **chr20:763826 — SLC52A3 gene** — SNP (C>A), stop gained (E>* at position 249), HIGH impact. Child is homozygous alt (1/1), both parents are heterozygous carriers (0/1). No population frequency reported, very rare. Introduces a premature stop codon in exon 3/5.
+
+---
+
+**Trio 5 — AR (Autosomal Recessive)**
+Same variant as trio 4:
+
+- **chr20:763826 — SLC52A3 gene** — SNP (C>A), stop gained, HIGH impact. Child homozygous (1/1), both parents carriers (0/1). Different read depths and quality scores confirm these are independent families carrying the same pathogenic variant.
+
