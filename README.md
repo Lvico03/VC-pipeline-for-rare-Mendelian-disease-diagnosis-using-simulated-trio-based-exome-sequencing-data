@@ -55,7 +55,7 @@ Diagnostic yield was 8/10 trios (80%), consistent with the ~20% of cases simulat
 ├── script/              # Full pipeline script (alignment through coverage tracks)
 ├── trio_cov/             # Per-sample BEDGraph coverage tracks
 ├── vcf_filtered/         # Inheritance- and quality-filtered VCFs
-├── vepcmd_filtered/       # VEP-annotated and filter_vep-filtered variants (command-line VEP)
+├── vepterminal_filtered/       # VEP-annotated and filter_vep-filtered variants (command-line VEP)
 └── vepweb_filtered/       # VEP web-interface annotation/verification output
 ```
 
